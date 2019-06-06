@@ -4,5 +4,11 @@
     "name": "MIKE/FEATURE-8/statechart-visualizer",
     "sha": "a0206f1fa6184195addf6870bdefc8096410a683",
     "tag": null
+  },
+  "visualizer": {
+    "path": "versions/visualizer",
+    "name": "visualizer",
+    "sha": "a0206f1fa6184195addf6870bdefc8096410a683",
+    "tag": null
   }
 }
