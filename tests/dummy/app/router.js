@@ -10,6 +10,7 @@ Router.map(function() {
   docsRoute(this, function() {
     this.route('quickstart');
     this.route('login-form');
+    this.route('statecharts');
   });
   this.route('editor');
 });
